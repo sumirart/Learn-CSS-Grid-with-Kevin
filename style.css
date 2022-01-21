@@ -97,11 +97,6 @@ select {
   grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
 }
 
-.card {
-  /* border: 2px solid pink; */
-  /* aspect-ratio: 1 / 1.5; */
-}
-
 .card__img {
   width: 100%;
   aspect-ratio: 1 / 1;
